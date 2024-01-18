@@ -12,12 +12,13 @@ Routine App is a web application developed with Django and React to track progre
 
 ## Screenshots
 
-![Screenshot 1](![login](https://github.com/GabJS10/RoutineApp/assets/128757585/47e0c9d8-c391-47e5-b51a-f38b8ff7a3c3))
-![Screenshot 2](![principal](https://github.com/GabJS10/RoutineApp/assets/128757585/2c28a250-3e6c-440f-8fda-daa8c39e04aa))
-![Screenshot 3](![principal2](https://github.com/GabJS10/RoutineApp/assets/128757585/04201182-f2cb-4bd9-a150-b15575b0f62f))
-![Screenshot 4](![profile](https://github.com/GabJS10/RoutineApp/assets/128757585/a91c07ba-fa3e-4756-905e-8a8d8d7d86fe))
-![Screenshot 5](![routinedays](https://github.com/GabJS10/RoutineApp/assets/128757585/66f06038-d7cd-449d-afe8-5ff806557e71))
-![Screenshot 6](![comparepage](https://github.com/GabJS10/RoutineApp/assets/128757585/b17a9bb1-1e8e-4069-ba7a-d4907e98e65f))
+![login](https://github.com/GabJS10/RoutineApp/assets/128757585/47e0c9d8-c391-47e5-b51a-f38b8ff7a3c3)
+![principal](https://github.com/GabJS10/RoutineApp/assets/128757585/2c28a250-3e6c-440f-8fda-daa8c39e04aa)
+![principal2](https://github.com/GabJS10/RoutineApp/assets/128757585/04201182-f2cb-4bd9-a150-b15575b0f62f)
+![profile](https://github.com/GabJS10/RoutineApp/assets/128757585/a91c07ba-fa3e-4756-905e-8a8d8d7d86fe)
+![routinedays](https://github.com/GabJS10/RoutineApp/assets/128757585/66f06038-d7cd-449d-afe8-5ff806557e71)
+![comparepage](https://github.com/GabJS10/RoutineApp/assets/128757585/b17a9bb1-1e8e-4069-ba7a-d4907e98e65f)
+
 
 
 ## Facility
